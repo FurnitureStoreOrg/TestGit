@@ -15,6 +15,9 @@ public class GithubTester {
 		System.err.println("Test 1");
 		
 		System.err.println("Test 2");
+		
+		TestData data = new TestData();
+		data.display();
 	}
 
 }
