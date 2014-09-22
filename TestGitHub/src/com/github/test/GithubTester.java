@@ -8,9 +8,9 @@ public class GithubTester {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.err.println("This java project is for testing the checkin/checkout of Github repository.");
-		
-		System.err.println("Test Local Github repository.");
+		System.err.println("Hello Happy Sales People!");
+		System.err.println("This app shows sales data.");
+		System.err.println("--------------------------");
 		
 		System.err.println("Test 1");
 		
