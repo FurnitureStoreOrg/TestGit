@@ -11,6 +11,8 @@ public class GithubTester {
 		System.err.println("This java project is for testing the checkin/checkout of Github repository.");
 		
 		System.err.println("Test Local Github repository.");
+		
+		System.err.println("Test 1");
 	}
 
 }
